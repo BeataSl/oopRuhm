@@ -1643,7 +1643,7 @@ input[type="radio"] .styled:checked+label::after {
 ---------------------------------------------------------------------*/
 
 .header {
-	background: #0fc690;
+	background: #0fbcc6;
 	padding: 40px 0px;
 	padding-bottom: 35px;
 }
@@ -1680,8 +1680,8 @@ input[type="radio"] .styled:checked+label::after {
 
 .banner-main .carousel-caption a {
 	text-transform: uppercase;
-	border: #0fc690 solid 1px;
-	background: #0fc690;
+	border: #0fbcc6 solid 1px;
+	background: #0fbcc6;
 	width: 196px;
 	padding: 12px 0;
 	display: inline-block;
@@ -1764,7 +1764,7 @@ input[type="radio"] .styled:checked+label::after {
 }
 
 .about .titlepage span {
-	color: # 3d3c3c;
+	color: #0fbcc6;
 	font-size: 17px;
 	line-height: 30px;
 }
@@ -1792,8 +1792,8 @@ input[type="radio"] .styled:checked+label::after {
 }
 
 .about .img-box a:hover {
-	border: #0fc690 solid 1px;
-	background: #0fc690;
+	border: #0fbcc6 solid 1px;
+	background: #0fbcc6;
 }
 
 
@@ -1809,7 +1809,7 @@ input[type="radio"] .styled:checked+label::after {
 }
 
 .service .titlepage span {
-	color: # 3d3c3c
+	color: #0fbcc6;
 }
 
 .service .service-box figure {
@@ -1821,7 +1821,7 @@ input[type="radio"] .styled:checked+label::after {
 }
 
 .green {
-	background-color: #6fb936;
+	background-color: #14a9b1;
 }
 
 .service .service-box .hoverle {
@@ -1839,7 +1839,7 @@ input[type="radio"] .styled:checked+label::after {
 
 .service .service-box .hoverle a {
 	padding: 5px 30px;
-	color: #40cfa4;
+	color: #0fbcc6;
 }
 
 .service .titlepage {
@@ -1853,7 +1853,7 @@ input[type="radio"] .styled:checked+label::after {
 	font-weight: bold;
 	color: #050303;
 	line-height: 46px;
-	border-bottom: #0fc690 solid 1px;
+	border-bottom: #0fbcc6 solid 1px;
 	width: 210px;
 	margin: 0 auto;
 	margin-bottom: 0px;
@@ -1895,7 +1895,7 @@ input[type="radio"] .styled:checked+label::after {
 }
 
 .green {
-	background-color: #6fb936;
+	background-color: #0fbcc6;
 }
 
 .page-top {
@@ -1951,7 +1951,7 @@ img.zoom {
 }
 
 .download .titlepage span {
-	color: # 3d3c3c
+	color: #0fbcc6
 }
 
 .download .titlepage h2 {
@@ -1986,7 +1986,7 @@ img.zoom {
 #main_slider .carousel-control-next:hover,
 #main_slider .carousel-control-prev:focus,
 #main_slider .carousel-control-next:focus {
-	background: #0fc690;
+	background: #0fbcc6;
 	color: #fff;
 }
 
@@ -2027,7 +2027,7 @@ img.zoom {
 /** end download section **/
 
 .testimonial {
-	background: #0fc690;
+	background: #0fbcc6;
 	padding: 60px 0px;
 }
 
@@ -2089,7 +2089,7 @@ img.zoom {
 #testimonial_slider .carousel-control-prev:focus,
 #testimonial_slider .carousel-control-next:focus {
 	color: #fff;
-	background: #0fc690;
+	background: #0fbcc6;
 	width: 50px;
 	height: 50px;
 }
@@ -2163,8 +2163,8 @@ img.zoom {
 }
 
 .testimonial .contact .send:hover {
-	background-color: #0fc690;
-	border: #0fc690 solid 1px;
+	background-color: #0fbcc6;
+	border: #0fbcc6 solid 1px;
 	color: #fff;
 }
 
@@ -2305,7 +2305,7 @@ ul.contant_icon li img {
 }
 
 .copyright a:hover {
-	color: #0fc690
+	color: #0fbcc6
 }
 
 
